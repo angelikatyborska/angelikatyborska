@@ -34,6 +34,8 @@ The human part 👩:
 
 - I speak English, Polish, and broken German (work in progess!).
 
+- My pronouns are she/her 🌈.
+
 - When I'm not coding, I:
   - Scroll my Twitter feed a bit too much 😰.
   - Play boardgames 🎲.
