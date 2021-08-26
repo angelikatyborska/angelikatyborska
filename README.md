@@ -22,7 +22,7 @@ The technical part 🤖:
 
 - Sometimes I write down my thoughts on any of the above topics on **[my blog](https://angelika.me)** 📘.
 
-- If you want to talk to me about ✨tech stuff✨, you can DM me on [Twitter](https://twitter.com/atyborska93) or write an email to `hello at angelika.me`.
+- If you want to talk to me about ✨tech stuff✨, you can DM me on [Twitter](https://twitter.com/atyborska93) or write an email to `hello at angelika.me`(**NO JOB OFFERS PLEASE**).
 
 </td>
 <td valign="top" width="50%">
