@@ -10,7 +10,7 @@ The technical part 🤖:
 
 - I write backend code in **Elixir** 💜. 
     - It's my favorite programming language because of its human-friendly syntax, immutability, pattern matching, and performance.
-    - In my spare time, I help out with Elixir on [Exercism](https://exercism.io/) by mentoring and maintaining the track.
+    - In my spare time, I help out with Elixir on [Exercism](https://exercism.org/) by maintaining the track.
 
 - I love making websites pretty with **CSS** 🎨.
     - Sometimes I do weird things with it just to see if I can and I publish it on [css-art.angelika.me](https://css-art.angelika.me).
