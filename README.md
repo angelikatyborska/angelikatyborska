@@ -22,7 +22,7 @@ The technical part 🤖:
 
 - Sometimes I write down my thoughts on any of the above topics on **[my blog](https://angelika.me)** 📘.
 
-- If you want to talk to me about ✨tech stuff✨, you can DM me on [Twitter](https://twitter.com/atyborska93) or write an email to `hello at angelika.me`(**NO JOB OFFERS PLEASE**).
+- If you want to talk to me about ✨tech stuff✨, you can DM me on [Mastodon @angelikatyborska@mas.to](https://mas.to/@angelikatyborska) or write an email to `hello at angelika.me`.
 
 </td>
 <td valign="top" width="50%">
@@ -37,10 +37,10 @@ The human part 👩:
 - My pronouns are she/her 🌈.
 
 - When I'm not coding, I:
-  - Scroll my Twitter feed a bit too much 😰.
   - Play boardgames 🎲.
   - Go to the gym 💪.
   - Watch TV series and movies 📽.
+  - Take amateur photographs 📸.
 
 </td>
 </tr>
