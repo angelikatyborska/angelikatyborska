@@ -32,7 +32,7 @@ The human part 👩:
 - I live in Berlin, Germany 🇩🇪.
     - ...but I was born and raised in Gorzów Wielkopolski, Poland 🇵🇱.
 
-- I speak English, Polish, and broken German (work in progess!).
+- I speak English, Polish, and broken German (work in progress!).
 
 - My pronouns are she/her 🌈.
 
