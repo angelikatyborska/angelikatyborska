@@ -40,6 +40,7 @@ The human part 👩:
   - Play boardgames 🎲.
   - Go to the gym 💪.
   - Watch TV series and movies 📽.
+  - Solve logical puzzles and jigsaw puzzles 🧩.
   - Take amateur photographs 📸.
 
 </td>
