@@ -12,13 +12,13 @@ The technical part 🤖:
     - It's my favorite programming language because of its human-friendly syntax, immutability, pattern matching, and performance.
     - In my spare time, I help out with Elixir on [Exercism](https://exercism.org/) by maintaining the track.
 
+- I pay attention to writing semantic and accessible **HTML** 📄.
+
 - I love making websites pretty with **CSS** 🎨.
     - Sometimes I do weird things with it just to see if I can and I publish it on [css-art.angelika.me](https://css-art.angelika.me).
 
-- I like working on client-side **JavaScript** code too...
-    - ...but I am not a fan of the current trend of making _everything_ a single-page application. Rendering HTML on the backend is still my default choice.
-    - I don't care much about which JavaScript framework I use...
-    - ...but **I do care about [web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)**.
+- I like working on client-side **JavaScript/TypeScript** code too 💛.
+    - I have experience building web apps using many different frameworks and approaches, including React, Vue, Unpoly, Svelte, Astro, jQuery, and vanilla JS.
 
 - Sometimes I write down my thoughts on any of the above topics on **[my blog](https://angelika.me)** 📘.
 
@@ -37,11 +37,11 @@ The human part 👩:
 - My pronouns are she/her 🌈.
 
 - When I'm not coding, I:
-  - Play boardgames 🎲.
+  - Play [boardgames](https://boardgamegeek.com/collection/user/karmacoma6?own=1) 🎲.
   - Go to the gym 💪.
   - Watch TV series and movies 📽.
   - Solve logical puzzles and jigsaw puzzles 🧩.
-  - Take amateur photographs 📸.
+  - Take [amateur photographs](https://www.flickr.com/photos/192384616@N03/) 📸.
 
 </td>
 </tr>
